@@ -36,4 +36,12 @@ Check installation
 Install Python packages via pip
 
     pip install numpy pandas matplotlib
-    
+
+Download the materials in this repository. If you're familiar with `git`, you can clone this repository by running the following command in the terminal (git bash)
+
+    git clone https://github.com/karuna-bhaila/mdas_python.git
+
+## Resources
+Some additional resources
+- https://cis192.github.io/
+- https://www.w3schools.com/python/
