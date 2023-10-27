@@ -1,3 +1,6 @@
+# Python program to visualize iris dataset
+# and save plots to file
+
 import sys
 import os
 import pandas as pd
